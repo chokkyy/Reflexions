@@ -1,0 +1,6 @@
+/manual commit Pros:
+1. we can commit our changes when we are done with one functionality
+2. It help  us to track changes according to functionality
+
+cons of Manual Credit:
+We can miss commit, due to which changes may be lost
