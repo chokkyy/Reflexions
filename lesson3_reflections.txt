@@ -5,8 +5,8 @@ local?
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
-
-    Fill in your answer here
+--Automatic update can save the change that I dont want, commit may not have meaning.
+--While manual pull will allow us to pull only necessary changes. We dont need to keep all the files locally.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
